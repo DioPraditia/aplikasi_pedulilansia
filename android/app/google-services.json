@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532474600468",
+    "firebase_url": "https://aplikasi-peduli-lansiaku-default-rtdb.firebaseio.com",
+    "project_id": "aplikasi-peduli-lansiaku",
+    "storage_bucket": "aplikasi-peduli-lansiaku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532474600468:android:79272f29123e3f8f0bdb01",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_pedulilansia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532474600468-ouncvs3md7f1uf5fn6iaghp617dgf55h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ-KqgjqcU4-RvP7G4G_aphroiZDW3aWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532474600468-ouncvs3md7f1uf5fn6iaghp617dgf55h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
